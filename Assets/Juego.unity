@@ -220,7 +220,7 @@ MonoBehaviour:
     00000000:
       type: {class: NullableBoolSerializable, ns: MLAPI.Configuration, asm: Unity.Multiplayer.MLAPI.Runtime}
       data:
-        Value: 0
+        Value: 1336459850964373391
 --- !u!4 &46988611
 Transform:
   m_ObjectHideFlags: 0
